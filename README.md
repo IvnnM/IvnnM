@@ -1,6 +1,6 @@
 # Profile
-👋 Hi, I’m @IvnnM
-✨ I'm interested in the limitless possibilities of technology.
+👋 Hi, I’m Ivan Medrano
+✨ I'm interested in programming.
 👍 I'm proficient in PHP, C++, Python, HTML, and JavaScript.
 💛 I love to collaborate on other projects.
 
