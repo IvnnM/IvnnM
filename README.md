@@ -1,8 +1,8 @@
 ### **About Me**
 
-I am currently pursuing a Bachelor of Science in Information Technology with a major in Business Analytics at Batangas State University.
+I am a Fresh Grad with Bachelor of Science in Information Technology Major in Business Analytics at Batangas State University.
 
-Currently, I am an On-the-Job (OJT) Front-End Developer at **Consultare Inc. Group**, where I am gaining hands-on experience with **Vue.js**, **Quasar**, and **GitHub**. I also contribute to **Quality Assurance (QA)** tasks, focusing on form functionality.
+I recently completed my On-the-Job Training (OJT) as a Front-End Developer at **Consultare Inc. Group**, where I gained hands-on experience with **Vue.js**, **Quasar**, and **GitHub**. I also contributed to **Quality Assurance (QA)** tasks, focusing on form functionality.
 
 My skill set includes:
 - **Front-End Development**: Proficient in **Vue.js**, **Bootstrap**, **Quasar**, and **GitHub**.
