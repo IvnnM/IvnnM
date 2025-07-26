@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ivan Medrano</h1>
-<p align="center">🎓 Fresh IT Graduate • 💻 Aspiring Full-Stack Developer • 📊 Data Enthusiast</p>
+<p align="center">🎓 Fresh IT Graduate • 💻 Aspiring Web Developer & UI/UX Designer</p>
 
 ---
 
@@ -13,7 +13,7 @@
 - 🧪 Performing **QA** tasks focused on form functionality and performance
 - 🌐 Collaborating with version control tools like **GitHub**
 
-🧠 I’m adaptable, organized, and eager to learn from feedback and mentorship. My goal is to turn ideas into clean functional interfaces.
+🧠 I’m adaptable, organized, and open to feedback and guidance. My goal is to grow as a developer by building real projects and learning from experience.
 
 ---
 
