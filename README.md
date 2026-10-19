@@ -128,7 +128,7 @@ Metro Mobilia Corporation | September 2025 – February 2026
 I'm always open to connecting with fellow developers, exchanging ideas, and exploring opportunities to build meaningful software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medrano-ivan-b57509276)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ivanwebdesign.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-portfolio-e8zdm42ap-ivans-projects-88a7683f.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.medrano.dev@email.com)
 
 ---
